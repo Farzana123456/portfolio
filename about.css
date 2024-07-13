@@ -1,0 +1,190 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+  
+}
+.img{
+    width: 100px;
+    padding-left: 60px;
+    float: left;
+}
+.header{
+    background-color:lightseagreen;
+   
+   position: relative;
+
+    
+}
+.titel{
+    color: white;
+    padding-top: 50px;
+    position:absolute;
+    float: left;
+   padding-left: 40px;
+}
+.menu{
+   padding-left: 350px;
+    padding-top: 60px;
+   padding-bottom: 30px;
+    
+}
+.menu a{
+    
+    color: white;
+    text-decoration: none;
+    padding: 8px;
+    font-size: medium;
+    padding-bottom: 10px;
+    
+}
+.menu a:hover{
+    color:tomato;
+}
+.t-header{
+    display: flex;
+}
+.about-body{
+text-align: center;
+padding: 22px;
+background-image: url("luis-cortes-jbK3ArnfGM0-unsplash.jpg");
+height: 600px;
+background-position: center ;
+
+}
+.about-hr{
+
+}
+h4{
+    color: blueviolet;
+}
+.about-logo{
+width: 80px;
+}
+.about-h1{
+   font-size:xx-large;
+   font-weight: bold;
+   font-family:Arial, Helvetica, sans-serif;
+   color: rgb(202, 13, 13);
+}
+.about2-img{
+padding-left: 0px;
+}
+.about2-img .mim{
+    padding-left: 0px;
+    padding-top: 35px;
+}
+.about2-titel{
+padding-left: 30px;
+padding-top: 360px;
+}
+.about2{
+    display: flex;
+}
+.about-facebook img{
+    width: 60px;
+    float: left;
+    padding: 7px;
+}
+.about-insta img{
+    width: 60px;
+  
+    padding: 7px;
+}
+.about-link{
+    padding-left: 140px;
+    padding-top: 40px;
+}
+.edupng{
+    width: 90px;
+    height: 90px;
+float: left;
+   border-radius: 50%;
+text-align: center;
+margin-top: 70px;
+margin-left: 30%;
+
+}
+.edu-head{
+    margin: 0 auto;
+   
+}
+h2{
+    color: brown;
+    padding-top: 100px;
+    font-size:xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.about-study{
+    background-color:aqua;
+    
+    height: 100vh;
+    width: 200vh;
+}
+.clear{
+    clear: both;
+}
+.edu-body{
+    margin-left: 250px;
+    position: relative;
+    float: left;
+    
+    
+}
+.edu-img{
+ 
+    float: left;
+  width: 100px;
+  height: 40px;
+  position: absolute;
+
+}
+.display{
+    display: flex;
+    padding-top: 90px;
+    padding-left: 30px;
+}
+li{
+    list-style-type: circle ;
+    
+    list-style-position: outside;
+}
+.div-bsc{
+    color:brown;
+    font-size:large;
+    font-weight: bold;
+    
+    border: 5px;
+    padding-bottom: 40px;
+    padding-top: 30px;
+  
+    
+}
+.div-hsc{
+    color:brown;
+    font-size:large;
+    font-weight: bold;
+    
+    border: 5px;
+    padding-bottom: 40px;
+    padding-top: 30px;
+
+}
+.div-ssc{
+    color:brown;
+    font-size:large;
+    font-weight: bold;
+}
+.about-2png{
+    width: 500px;
+    
+    float: left;
+  
+  height: 350px;
+  position: absolute;
+  padding-left: 520px;
+  padding-top: 0%;
+  padding-bottom: px;
+
+}

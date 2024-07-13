@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+  
+}
+.img{
+    width: 100px;
+    padding-left: 60px;
+    float: left;
+}
+.header{
+    background-color:lightseagreen;
+    
+   position: relative;
+    
+}
+.titel{
+    color: white;
+    padding-top: 50px;
+    position:absolute;
+    float: left;
+   padding-left: 40px;
+   height: 100vh;
+}
+.menu{
+   padding-left: 350px;
+    padding-top: 60px;
+   padding-bottom: 30px;
+    
+}
+.menu a{
+    
+    color: white;
+    text-decoration: none;
+    padding: 8px;
+    font-size: medium;
+    padding-bottom: 10px;
+    
+}
+.menu a:hover{
+    color:tomato;
+}
+.t-header{
+    display: flex;
+}
+
+.weather1{
+    width: 200px;
+    
+    padding-left: 1000px;
+padding-top: 100px;
+transition-property:transform;
+transition-duration: 1s;
+
+
+}
+
+
+.weather1:hover{
+   
+
+}
+.main-titel{
+    font-style: italic;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+  padding: 10px;
+
+}
+.main-description{
+    text-align: center;
+    padding: 8px;
+    opacity: 0.6;
+}
+.weather2{
+    width: 105px;
+   padding: 10px;
+transition: transform 2s;
+}
+.weather2:hover{
+    transform: rotate(360deg);
+}
+.clear{
+    clear: both;
+}
+.c-language{
+    width: 250px;
+}
+.body2{
+    width: 250vh;
+    height: cover;
+    margin-top: 50px;
+    text-align: center;
+    background-color: aquamarine;
+    
+}
+.body-box1{
+  
+ width: 250px;
+ margin-top: 8%;
+ padding: 16px;
+ text-align: center;
+ 
+
+}
+.body-box1 p{
+    color:yellow;
+    text-align: center;
+    font-size: xx-large;
+    background-color: black;
+    
+  
+    
+}
+.clear{
+    clear: both;
+}
+.body2-h{
+    
+    font-size: xx-large;
+    padding-top: 120px;
+   text-align: center;
+    padding-left: 0%;
+    
+}
+.all{
+    display: flex;
+    padding: 5px;
+    padding-left: 100px;
+    margin-left: 120px;
+}
